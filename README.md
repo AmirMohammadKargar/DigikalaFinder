@@ -1,5 +1,5 @@
 # DigikalaFinder
-Python Web Scraper to find things with your money in digikal
+Python Web Scraper to find things with your money in digikala
 
 <h3>Requirements</h3>
 
